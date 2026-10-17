@@ -13,6 +13,10 @@ Its core differentiator is **not** simply adding a chat window to a dashboard. L
 
 ---
 
+<img width="1841" height="945" alt="image" src="https://github.com/user-attachments/assets/82735a29-5419-47b3-bc9b-d2c07734ec73" />
+<img width="1886" height="797" alt="image" src="https://github.com/user-attachments/assets/8cf37b82-dc59-4050-9bef-cfa0f916a610" />
+
+
 ## ⚡ Core Features
 
 - 📄 **Multi-Format Document Ingestion:** Extracts text from PDFs using **PyMuPDF**, handles image receipts via safe OCR fallback, and digests bank statement CSV files.
